@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Having fun with MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kendall Buchanan <kendall@teachbanzai.com> (https://github.com/kendagriff)",
+  "license": "ISC",
+  "dependencies": {
+    "mongojs": "2.3.0"
+  }
+}
