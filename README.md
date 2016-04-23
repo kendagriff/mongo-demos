@@ -7,10 +7,28 @@ Demonstrations for MongoDB in Javascript.
 └── day-1
     ├── index.js
         └── package.json
+└── day-2
+    ├── index.js
+        └── package.json
+└── day-3
+    ├── index.js
+        └── package.json
 ```
 
 ## Day 1
 
 Navigate to `./day-1` and `npm install`. Then, run `node` directly to start a REPL.
+
+Open `index.js` to follow along.
+ 
+## Day 2
+
+Navigate to `./day-2` and `npm install`. Then, run `node` directly to start a REPL.
+
+Open `index.js` to follow along.
+ 
+## Day 3
+
+Navigate to `./day-3` and `npm install`. Then, run `node` directly to start a REPL.
 
 Open `index.js` to follow along.
