@@ -9,6 +9,6 @@
   "author": "Kendall Buchanan <kendall@teachbanzai.com> (https://github.com/kendagriff)",
   "license": "ISC",
   "dependencies": {
-    "mongojs": "2.3.0"
+    "mongojs": "2.4.0"
   }
 }
